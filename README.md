@@ -1,2 +1,11 @@
-# Jurrasic_Terrarium
-You can drag the plants to the jar and make your own Terrarium!  |Referenced links| https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/3-terrarium/solution
+# Jurrasic Terrarium
+
+
+## How to Use
+* double click the plant to make it bigger
+* drag plants to the jar
+* Make your own Terrarium!
+
+![Terrarium gif](./docs/terrarium.gif)
+
+Please Try!😄
